@@ -12,4 +12,3 @@ BOAT has dependencies to:
 * [Boost](http://www.boost.org/)
 * [Eigen](http://eigen.tuxfamily.org) 
 * [NLOpt](http://ab-initio.mit.edu/wiki/index.php/NLopt)
-

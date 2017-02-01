@@ -1,2 +1,2 @@
 
-add_library(parameters OBJECT parameters.cpp)
+add_library(parameters parameters.cpp)

@@ -1,2 +1,2 @@
-add_library(gp OBJECT gp.cpp)
-add_library(probabilistic OBJECT probabilistic.cpp)
+add_library(gp gp.cpp)
+add_library(probabilistic probabilistic.cpp)

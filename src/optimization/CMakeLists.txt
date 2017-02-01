@@ -1,1 +1,1 @@
-add_library(optimization OBJECT optimization.cpp)
+add_library(optimization optimization.cpp)
